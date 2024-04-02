@@ -3,6 +3,7 @@
 /rsc/model_weights/
 
 # Dataset files
+/FigureImages
 /Paired
 /UnderwaterImages
 UnderwaterImages.zip
