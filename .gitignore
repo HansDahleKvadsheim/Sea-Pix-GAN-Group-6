@@ -1,2 +1,10 @@
+.idea
+.ipynb_checkpoints
 /rsc/model_weights/
 /EUVP Dataset/
+
+# Dataset files
+/FigureImages
+/Paired
+/UnderwaterImages
+UnderwaterImages.zip
