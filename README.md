@@ -53,7 +53,7 @@ In this directory, the generator and discriminator model weights are stored as w
 The data is stored automatically when running all the cells, and similarly, if there is data already stored it will load it in automatically overriding the current dataset, loss statistics, and model initializations.
 
 ## Authors
-- Henrik Meenen
+- Henrik Brinch van Meenen
 - Thijs Penning
 - Hans Kvadsheim
 - Yuanfu Pan
