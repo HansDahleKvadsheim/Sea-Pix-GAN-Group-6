@@ -1,5 +1,5 @@
 # Sea-Pix-GAN reproduction (Group 6)
-This repository is a reproduction of the model designed in the paper titled "Sea-Pix-GAN: Underwater image enhancement using adversarial neural network", the paper itself can be found on [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1047320323002717). We have included the [Replication_Blog.pdf](./Replication_Blog.pdf) documenting our reproduction process. 
+This repository is a reproduction of the model designed in the paper titled "Sea-Pix-GAN: Underwater image enhancement using adversarial neural network", the paper itself can be found on [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1047320323002717). We have included the [replication blog](Replication_Blog.pdf) documenting our reproduction process. 
 The aquatic environment of underwater imaging significantly alters the produced images producing hazy and blue-green tinted results.
 Many state-of-the-art solutions to underwater image enhancement exist, though their performance varies for the different types of image scenarios.
 In their work, they propose a model that aims to solve this problem using image-to-image translation in a Generative Adversarial Network (GAN) structure.
